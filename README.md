@@ -1,16 +1,16 @@
 # medicalCycle-cloud
 medical cycle- documentation-Eko Gedeon
 
-# 🏥 MediNexus Cloud
+# 🏥 MedicalCycle Cloud
 
-MediNexus Cloud est une plateforme de gestion médicale communautaire basée sur le cloud, développée et promue par MediNexus Collective.  
+MedicalCyce Cloud est une plateforme de gestion médicale communautaire basée sur le cloud, développée et promue par MediNexus Collective.  
 Elle permet aux hôpitaux, cliniques et pharmacies d’une même communauté de partager et consulter des dossiers médicaux de manière sécurisée, collaborative et évolutive.
 
 ---
 
 ## 🌍 Description du service
 
-MediNexus Cloud facilite la continuité des soins en centralisant les informations médicales des patients.  
+MedicalCycle Cloud facilite la continuité des soins en centralisant les informations médicales des patients.  
 Chaque patient possède un dossier numérique unique, accessible uniquement aux professionnels de santé autorisés.  
 Les médecins peuvent ajouter diagnostics, prescriptions et notes de suivi ; les pharmaciens peuvent confirmer la dispensation ; les infirmiers peuvent mettre à jour l’évolution clinique.
 
@@ -55,11 +55,11 @@ Plusieurs professionnels autorisés peuvent accéder et contribuer simultanémen
 ---
 
 ## 🌱 Impact communautaire
-MediNexus Cloud améliore l’accès et la qualité des soins, particulièrement utile dans les zones rurales ou les réseaux hospitaliers fragmentés.
+MedicalCycle Cloud améliore l’accès et la qualité des soins, particulièrement utile dans les zones rurales ou les réseaux hospitaliers fragmentés.
 
 ---
 
 ## 🧾 Informations projet
 - CEO : Eko Gedeon  
-- Entreprise : MediNexus Collective  
-- Durée (simulation) : 48 heures (exercice académique)
+- Entreprise :MedicalCycle Collective  
+
