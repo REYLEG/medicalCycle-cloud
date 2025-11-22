@@ -3,7 +3,7 @@ medical cycle- documentation-Eko Gedeon
 
 # 🏥 MedicalCycle Cloud
 
-MedicalCyce Cloud est une plateforme de gestion médicale communautaire basée sur le cloud, développée et promue par MediNexus Collective.  
+MedicalCycle Cloud est une plateforme de gestion médicale communautaire basée sur le cloud, développée et promue par MediNexus Collective.  
 Elle permet aux hôpitaux, cliniques et pharmacies d’une même communauté de partager et consulter des dossiers médicaux de manière sécurisée, collaborative et évolutive.
 
 ---
