@@ -1,0 +1,1 @@
+"""MedicalCycle Cloud Backend Application"""
